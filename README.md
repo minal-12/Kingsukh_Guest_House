@@ -13,6 +13,7 @@ Modern UI/UX: Designed with a modern user interface and user experience in mind.
 Interactive Elements: Includes interactive elements such as buttons, hover effects, and form inputs.
 
 Technologies Used
+
 HTML5: Structure of the webpage.
 CSS3 (Tailwind CSS): Styling and layout of the webpage.
 JavaScript: Interactivity and dynamic elements.
