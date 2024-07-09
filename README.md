@@ -8,6 +8,7 @@ Introduction
 
 This project involves the redesign of the King Sukh Guest House website to enhance its design and responsiveness. The redesign aims to create a visually appealing and user-friendly website that effectively promotes the guest house's services and attracts potential customers.
 
+![photo](Kingsukh_Guest_House/Screenshot.png)
 
 Features
 
