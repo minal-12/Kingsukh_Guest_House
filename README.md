@@ -29,7 +29,7 @@ JavaScript: Interactivity and dynamic elements.
 
 ## Preview
 
-![photo](Kingsukh_Guest_House/images/screenshot.png) 
+![Screenshot]( King-Sukh_Guest_House/Screenshot.png)
 
 1. Clone the repository:
    
